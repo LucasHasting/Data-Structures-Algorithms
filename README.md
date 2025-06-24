@@ -19,7 +19,7 @@ g++ can be installed on Linux using your favorite package manager.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/LucasHasting/Computer-Science-I.git
+    git clone https://github.com/LucasHasting/Data-Structures-Algorithms.git
     ```
 
 2. Navigate to the directory of choice:
