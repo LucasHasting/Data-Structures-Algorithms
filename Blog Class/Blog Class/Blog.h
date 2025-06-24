@@ -17,12 +17,12 @@ using namespace std;
 class Blog
 {
       //declare private memeber variables
-      private:
+    private:
 	 string authorFirst, authorLast, content;
 	 int month, day, year;
 
       //declare public methods and constructor
-      public:
+    public:
 	 Blog();
 	 void setBlog(string authorF, string authorL, string Content, int Month, int Day, int Year);
 	 string getAuthorFirst() const;
